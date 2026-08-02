@@ -28,7 +28,7 @@ flask = ["flask>=2.3"]
 dev = ["pytest>=7.0"]
 
 [project.urls]
-Homepage = "https://github.com/conchaestradamiguelangel-droid/pqsign"
+Homepage = "https://github.com/pqsign/pqsign"
 
 [tool.setuptools.packages.find]
 where = ["src"]
